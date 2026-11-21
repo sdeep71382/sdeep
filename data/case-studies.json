@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "learning-progress-dashboard",
+    "title": "Learning Progress Dashboard",
+    "category": "EdTech",
+    "challenge": "Students needed one clear place to understand activities, progress, and what to do next.",
+    "contribution": "Structured reusable React views for dashboards, learning activities, and progress states.",
+    "outcome": "Created a consistent learning experience that made progress and next actions easier to follow.",
+    "stack": ["React", "TypeScript", "Responsive UI"],
+    "featured": true
+  },
+  {
+    "slug": "role-based-saas-workspace",
+    "title": "Role-Based SaaS Workspace",
+    "category": "SaaS",
+    "challenge": "Different users needed access to different tools and business workflows inside one application.",
+    "contribution": "Built modular interfaces, protected experiences, validation, and API-backed workflows around user roles.",
+    "outcome": "Kept the product organized while giving each role a focused and appropriate workspace.",
+    "stack": ["React", "Node.js", "Authorization"],
+    "featured": true
+  },
+  {
+    "slug": "ecommerce-api-workflows",
+    "title": "E-Commerce API Workflows",
+    "category": "Commerce",
+    "challenge": "Product, cart, customer, and order experiences depended on reliable data across several services.",
+    "contribution": "Connected storefront interfaces to REST and GraphQL services with clear loading, success, and error states.",
+    "outcome": "Produced shopping workflows that remained understandable and dependable across the customer journey.",
+    "stack": ["React", "GraphQL", "REST APIs"],
+    "featured": true
+  },
+  {
+    "slug": "secure-authentication-flow",
+    "title": "Secure Authentication Flow",
+    "category": "Application security",
+    "challenge": "The application needed predictable sign-in, validation, session handling, and protected routes.",
+    "contribution": "Implemented authentication states, input validation, authorization checks, and role-aware navigation.",
+    "outcome": "Made account access clearer for users and safer for protected application areas.",
+    "stack": ["Node.js", "Express.js", "Authentication"],
+    "featured": false
+  },
+  {
+    "slug": "shopify-storefront-customization",
+    "title": "Shopify Storefront Customization",
+    "category": "Shopify",
+    "challenge": "A production storefront needed tailored merchandising and content behavior beyond standard theme options.",
+    "contribution": "Developed Liquid components and connected Shopify data to responsive storefront features.",
+    "outcome": "Delivered a storefront experience that matched the business workflow while remaining maintainable for content teams.",
+    "stack": ["Shopify Liquid", "Shopify Admin API", "JavaScript"],
+    "featured": false
+  },
+  {
+    "slug": "rest-graphql-integration-layer",
+    "title": "REST and GraphQL Integration Layer",
+    "category": "Integrations",
+    "challenge": "Frontend features relied on different APIs with inconsistent request and response patterns.",
+    "contribution": "Organized API calls into reusable modules and normalized success, loading, and failure handling.",
+    "outcome": "Reduced coupling between interfaces and services, making features easier to extend and troubleshoot.",
+    "stack": ["REST", "GraphQL", "Axios"],
+    "featured": false
+  },
+  {
+    "slug": "webhook-order-automation",
+    "title": "Webhook Order Automation",
+    "category": "Automation",
+    "challenge": "Order events needed to trigger dependable updates across connected systems without manual follow-up.",
+    "contribution": "Handled webhook events, validation, processing states, and third-party service handoffs.",
+    "outcome": "Turned order changes into a clearer automated workflow with fewer disconnected steps.",
+    "stack": ["Node.js", "Webhooks", "Third-party APIs"],
+    "featured": false
+  },
+  {
+    "slug": "garage-service-management",
+    "title": "Garage Service Management",
+    "category": "Operations",
+    "challenge": "Service teams needed a practical way to manage customers, vehicles, service records, and job status.",
+    "contribution": "Built connected frontend and backend workflows for operational records and day-to-day updates.",
+    "outcome": "Brought related service information into one structured workflow that was easier to maintain.",
+    "stack": ["React", "Express.js", "Database CRUD"],
+    "featured": false
+  },
+  {
+    "slug": "business-operations-crud",
+    "title": "Business Operations CRUD Platform",
+    "category": "Business systems",
+    "challenge": "Teams needed reliable create, review, update, and archive workflows around operational data.",
+    "contribution": "Implemented validated forms, API connectivity, database operations, and clear record states.",
+    "outcome": "Created a predictable foundation for managing business records across common operational tasks.",
+    "stack": ["React", "Node.js", "SQL"],
+    "featured": false
+  },
+  {
+    "slug": "reusable-react-components",
+    "title": "Reusable React Component System",
+    "category": "Frontend architecture",
+    "challenge": "Repeated interface patterns were slowing delivery and creating inconsistent behavior.",
+    "contribution": "Separated shared controls, layout patterns, feedback states, and feature-specific components.",
+    "outcome": "Made interface development more consistent while keeping product-specific behavior flexible.",
+    "stack": ["React", "TypeScript", "Component architecture"],
+    "featured": false
+  },
+  {
+    "slug": "typescript-feature-architecture",
+    "title": "TypeScript Feature Architecture",
+    "category": "Maintainability",
+    "challenge": "A growing frontend needed clearer boundaries between domain logic, API access, and UI code.",
+    "contribution": "Organized code by feature and introduced typed contracts across components and data flows.",
+    "outcome": "Improved readability and made future changes easier to reason about across the application.",
+    "stack": ["TypeScript", "React", "Feature modules"],
+    "featured": false
+  },
+  {
+    "slug": "asynchronous-data-experience",
+    "title": "Asynchronous Data Experience",
+    "category": "Frontend engineering",
+    "challenge": "API-driven pages needed to remain useful during loading, refetching, empty, and error states.",
+    "contribution": "Designed consistent query handling and user feedback around asynchronous application data.",
+    "outcome": "Prevented abrupt or unclear screens and gave users better context throughout data transitions.",
+    "stack": ["TanStack Query", "React", "REST APIs"],
+    "featured": false
+  },
+  {
+    "slug": "relational-data-modeling",
+    "title": "Relational Data Modeling",
+    "category": "Data",
+    "challenge": "Customer, product, order, and operational records needed relationships that supported everyday workflows.",
+    "contribution": "Mapped entities, relationships, and CRUD operations around the application’s real usage patterns.",
+    "outcome": "Established a data foundation that supported consistent reads, updates, and API responses.",
+    "stack": ["PostgreSQL", "MySQL", "SQL"],
+    "featured": false
+  },
+  {
+    "slug": "mongodb-content-workflows",
+    "title": "Flexible Content Workflows",
+    "category": "Data",
+    "challenge": "Some product features required flexible records that could evolve without rigid table structures.",
+    "contribution": "Modeled document data and connected it to API-backed create, read, update, and delete operations.",
+    "outcome": "Supported changing content requirements while keeping application access patterns straightforward.",
+    "stack": ["MongoDB", "Node.js", "NoSQL"],
+    "featured": false
+  },
+  {
+    "slug": "responsive-interface-modernization",
+    "title": "Responsive Interface Modernization",
+    "category": "Responsive design",
+    "challenge": "Existing interfaces were difficult to use across smaller screens and varied content lengths.",
+    "contribution": "Reworked layouts, spacing, navigation, and component behavior around responsive breakpoints.",
+    "outcome": "Made core journeys easier to use across mobile, tablet, and desktop screens.",
+    "stack": ["HTML5", "CSS3", "Responsive design"],
+    "featured": false
+  },
+  {
+    "slug": "storefront-performance-review",
+    "title": "Storefront Performance Review",
+    "category": "Performance",
+    "challenge": "A content-heavy storefront needed smoother rendering and more disciplined frontend behavior.",
+    "contribution": "Reviewed component work, asset usage, data requests, and avoidable re-rendering across key views.",
+    "outcome": "Produced a leaner browsing experience and a clearer path for continued performance work.",
+    "stack": ["React", "Performance optimization", "Debugging"],
+    "featured": false
+  },
+  {
+    "slug": "cross-browser-stability",
+    "title": "Cross-Browser Stability",
+    "category": "Quality",
+    "challenge": "Responsive features behaved differently across browsers and device sizes.",
+    "contribution": "Reproduced layout issues, isolated CSS and JavaScript causes, and applied focused compatibility fixes.",
+    "outcome": "Delivered more consistent interactions and layouts across supported browsers.",
+    "stack": ["JavaScript", "CSS", "Browser debugging"],
+    "featured": false
+  },
+  {
+    "slug": "production-debugging-maintainability",
+    "title": "Production Debugging and Maintainability",
+    "category": "Delivery",
+    "challenge": "Production defects crossed component, API, integration, and data boundaries.",
+    "contribution": "Traced failures through the full workflow, isolated root causes, and reorganized affected code into clearer modules.",
+    "outcome": "Resolved user-facing issues while leaving the surrounding feature easier to understand and support.",
+    "stack": ["Git", "Postman", "Full-stack debugging"],
+    "featured": false
+  }
+]

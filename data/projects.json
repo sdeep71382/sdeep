@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "blk-art-auction",
+    "title": "BLK Art Auction",
+    "category": "Commerce",
+    "challenge": "A timed art-auction experience needed to keep lot discovery, bidder accounts, auction states, payment, and delivery steps understandable in one journey.",
+    "contribution": "Built and refined responsive auction interfaces, account-aware states, and API-connected flows that carried bidders from browsing a lot through post-auction actions.",
+    "outcome": "Created a clearer end-to-end bidding experience with consistent states across discovery, participation, and fulfilment.",
+    "stack": ["React", "Node.js", "REST APIs"],
+    "featured": false
+  },
+  {
+    "slug": "whizlabs-learning-platform",
+    "title": "Whizlabs",
+    "category": "EdTech",
+    "challenge": "Practice tests, video courses, hands-on labs, and cloud sandboxes needed to feel like parts of one scalable learning platform.",
+    "contribution": "Developed reusable learning and dashboard interfaces, connected API-driven states, and maintained responsive patterns across different content formats.",
+    "outcome": "Helped deliver a more consistent learner journey across discovery, enrolment, progress tracking, and hands-on practice.",
+    "stack": ["React", "Next.js", "TypeScript"],
+    "featured": false
+  },
+  {
+    "slug": "alero-conversational-experience",
+    "title": "Alero",
+    "category": "AI Product",
+    "challenge": "A static product website needed a more useful way to answer visitor questions and guide people toward the right next step.",
+    "contribution": "Integrated an interactive, API-driven conversational experience with clear response, loading, recovery, and conversion states.",
+    "outcome": "Turned passive browsing into a guided product journey while keeping the experience responsive and easy to navigate.",
+    "stack": ["Next.js", "JavaScript", "API Integration"],
+    "featured": false
+  },
+  {
+    "slug": "tech-point-services-platform",
+    "title": "Tech Point Services",
+    "category": "Service Platform",
+    "challenge": "Visitors needed to find the right public-service assistance, understand required documents, and move confidently toward support in more than one language.",
+    "contribution": "Created responsive service-discovery flows, document-preparation states, multilingual interface patterns, and a direct support handoff.",
+    "outcome": "Made service selection and preparation easier to understand before a visitor started the assisted process.",
+    "stack": ["Next.js", "TypeScript", "Responsive UI"],
+    "featured": false
+  }
+]
